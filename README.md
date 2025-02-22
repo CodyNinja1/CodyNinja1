@@ -2,9 +2,9 @@
 I'm CodyNinja1 (aka. jailman.), 16, I do some stuff here and there.
 
 # My skills
-~3 years of experience with Python.
-Currently learning advanced C++ with Win32.
-~6 months of experience with Openplanet angelscript.
+- ~3 years of experience with Python.
+- Currently learning advanced C++ with Win32.
+- ~6 months of experience with Openplanet angelscript.
 
 # My works
 [Twinkie](https://github.com/TwinkieTweaks/Twinkie), a QOL modification for TrackMania Forever.
