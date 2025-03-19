@@ -12,4 +12,4 @@ I'm CodyNinja1 (aka. jailman.), 16, I do some stuff here and there.
 - [GhostFinder](https://github.com/CodyNinja1/GhostFinder), an Openplanet plugin for Turbo, made for easily accessing PB ghosts ingame.
 
 # My stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodyNinja1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodyNinja1&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
