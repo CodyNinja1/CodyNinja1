@@ -1,4 +1,4 @@
-# Hi!
+# Hello! 👋 
 I'm CodyNinja1, 16, I do some stuff here and there.
 
 # My skills
