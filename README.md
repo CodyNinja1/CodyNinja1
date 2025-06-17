@@ -1,5 +1,5 @@
 # Hi!
-I'm CodyNinja1 (aka. jailman.), 16, I do some stuff here and there.
+I'm CodyNinja1, 16, I do some stuff here and there.
 
 # My skills
 - ~3 years of experience with Python.
