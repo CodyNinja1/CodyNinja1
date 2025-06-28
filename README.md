@@ -6,7 +6,7 @@ I'm CodyNinja1, 16, I do some stuff here and there.
 - ~3 months of learning advanced C++ with Win32.
 
 # My works
-- [Twinkie](https://github.com/TwinkieTweaks/Twinkie), a Quality of Life C++ game modification for the 2008 video game TrackMania Forever.
+- [Twinkie](https://github.com/TwinkieTweaks/Twinkie), a Quality of Life C++ game modification, and WIP Lua scripting engine for the 2008 video game TrackMania Forever.
 - [GlueUi](https://github.com/CodyNinja1/GlueUi), a minimalistic Python 3.12 UI library built upon pySDL2.
 
 # My stats
