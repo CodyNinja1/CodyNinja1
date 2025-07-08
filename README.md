@@ -3,7 +3,8 @@ I'm CodyNinja1, 16, I do some stuff here and there.
 
 # My skills
 - ~3 years of experience with Python.
-- ~3 months of learning advanced C++ with Win32.
+- ~5 months of learning advanced C++ with Win32.
+- Basic embedded programming knowledge with ESP-IDF and Arduino IDE.
 
 # My works
 - [Twinkie](https://github.com/TwinkieTweaks/Twinkie), a Quality of Life C++ game modification, and WIP Lua scripting engine for the 2008 video game TrackMania Forever.
