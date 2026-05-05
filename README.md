@@ -3,7 +3,7 @@ I'm CodyNinja1, 17, I do some stuff here and there.
 
 # My skills
 - ~4 years of experience with Python.
-- ~5 months of learning advanced C++ with Win32.
+- ~1 year of learning advanced C++ with Win32.
 - Basic embedded programming knowledge with ESP-IDF and Arduino IDE.
 
 # My works
