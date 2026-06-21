@@ -7,5 +7,4 @@ I'm CodyNinja1, 17, I do some stuff here and there.
 - Basic embedded programming knowledge with ESP-IDF and Arduino IDE.
 
 # My works
-- [Twinkie](https://github.com/TwinkieTweaks/TwinkieForever), a Quality of Life C++ game modification, and WIP Lua scripting engine for the 2008 video game TrackMania Forever.
-- [TwinkieX](https://github.com/TwinkieTweaks/TwinkieX), a work-in-progress C++ modding platform for various Trackmania games.
+- [Twinkie](https://github.com/TwinkieTweaks/), a work-in-progress C++ modding platform for various Trackmania games.
